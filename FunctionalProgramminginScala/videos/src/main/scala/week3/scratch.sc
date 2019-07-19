@@ -1,4 +1,4 @@
-import week3.Empty
+import week3._
 
 
 object scratch {

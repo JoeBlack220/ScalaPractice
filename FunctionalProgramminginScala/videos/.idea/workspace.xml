@@ -2,38 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53d19456-50ff-4ef9-92ea-446ab70b4988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objsets/.idea/modules/progfun1-objsets-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objsets/.idea/modules/progfun1-objsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objsets/src/main/scala/objsets/Test.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/week1-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week2/exercise.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week2/exercise2.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week2/exercise3.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week2/rationals.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/List.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/intsets.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/nth.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/scratch.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/modules/videos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/modules/week1-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/src/main/scala/leetcode518.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/src/main/scala/session.sc" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/modules/progfun1-patmat-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/modules/progfun1-patmat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/videos-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week4/objectsEverywhere.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week7/Pouring.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week7/test2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week8/generator.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../objsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/videos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/videos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/week1-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/week3/scratch.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/week3/scratch.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,37 +73,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/week1/session.sc">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/week1/leetcode518.sc">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week4/objectsEverywhere.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/week2/exercise2.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/week3/intsets.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -111,8 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/week3/scratch.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week3/intsets.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -127,10 +118,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week2/exercise3.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/week3/nth.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week7/Pouring.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week7/test2.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -143,6 +161,11 @@
         <option value="Scala Worksheet" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>from</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -158,17 +181,22 @@
         <option value="$PROJECT_DIR$/src/main/scala/week2/exercise3.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/week2/rationals.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/week3/intsets.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/week3/scratch.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/week3/List.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/week3/nth.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week4/objectsEverywhere.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week8/generator.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week3/scratch.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week7/test.sc" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/week7/test2.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week7/Pouring.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="100" />
-    <option name="y" value="220" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="828" />
+    <option name="height" value="592" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,34 +210,32 @@
         <subPane>
           <expand>
             <path>
-              <item name="videos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1" type="b2602c69:ProjectViewProjectNode" />
               <item name="videos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="videos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="videos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="videos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1" type="b2602c69:ProjectViewProjectNode" />
               <item name="videos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="videos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1" type="b2602c69:ProjectViewProjectNode" />
               <item name="videos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="videos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1" type="b2602c69:ProjectViewProjectNode" />
               <item name="videos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,16 +247,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -271,18 +300,18 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="week1" />
+              <option name="name" value="videos" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="week1 [file:/Users/yanyichun/IdeaProjects/ScalaPractice/FunctionalProgramminginScala/week1/]" />
+                <option name="name" value="videos [file:/Users/yanyichun/IdeaProjects/ScalaPractice/FunctionalProgramminginScala/videos/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="week1-build" />
+                <option name="name" value="videos-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -292,19 +321,20 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3126168392000" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1899470420" />
+        <entry key="$PROJECT_DIR$" value="3126571653000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2422159391" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
     </option>
     <option name="projectSyncType">
       <map>
         <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
   <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="1486" />
+    <option name="inProcessMode" value="false" />
     <option name="useEclipseCompatibility" value="true" />
   </component>
   <component name="SvnConfiguration">
@@ -322,12 +352,17 @@
       <workItem from="1563085051591" duration="1159000" />
       <workItem from="1563086255979" duration="4364000" />
       <workItem from="1563170646857" duration="37000" />
-      <workItem from="1563170763555" duration="10031000" />
+      <workItem from="1563170763555" duration="13816000" />
+      <workItem from="1563384269990" duration="11669000" />
+      <workItem from="1563483787447" duration="1358000" />
+      <workItem from="1563485230375" duration="1802000" />
+      <workItem from="1563487983194" duration="1555000" />
+      <workItem from="1563508551384" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16361000" />
+    <option name="totallyTimeSpent" value="39248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,9 +374,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="220" width="1440" height="828" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="592" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15736766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,17 +385,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29575163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.294" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32913166" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.30882353" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32849365" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.328" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.308" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.482" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.326" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32849365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -382,6 +417,7 @@
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
     <option name="interactive" value="true" />
+    <option name="makeBeforeRun" value="true" />
     <option name="moduleName" value="videos" />
   </component>
   <component name="editorHistoryManager">
@@ -409,31 +445,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/sss.sc" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/week1/test.sc" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week1/session.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week1/leetcode518.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week2/rationals.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week2/exercise3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -444,6 +459,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week8/generator.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week1/session.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week1/leetcode518.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week2/exercise2.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -451,13 +487,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week7/test.sc" />
     <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week4/objectsEverywhere.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week3/scratch.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week3/intsets.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -468,17 +523,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week3/nth.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week2/exercise3.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week3/intsets.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week3/nth.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week7/test2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week7/Pouring.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -535,7 +604,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>videos</last-edited>
+          <last-edited>week1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3536a1f6-af97-4c8f-b8e7-8d409b416e86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/Test.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/modules/week1-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week2/exercise.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week2/exercise2.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week2/exercise3.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week2/rationals.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week3/List.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week3/intsets.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week3/nth.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week3/scratch.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/modules/videos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/modules/week1-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/src/main/scala/leetcode518.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1/src/main/scala/session.sc" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videos/src/main/scala/week4/objectsEverywhere.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../videos/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -228,6 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
@@ -300,6 +272,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="18233259412000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2959508787" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
@@ -336,12 +309,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563236037572</updated>
-      <workItem from="1563236044212" duration="12604000" />
+      <workItem from="1563236044212" duration="12974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12604000" />
+    <option name="totallyTimeSpent" value="12974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="23" width="1440" height="828" extended-state="0" />

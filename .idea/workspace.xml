@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa1c5f2-04c9-4d5b-87e1-cda6e9237bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/week1/src/main/scala/session.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/modules/progfun1-patmat-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/modules/progfun1-patmat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/patmat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/modules/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week4/objectsEverywhere.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week7/Pouring.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week7/test.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week7/test2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week8/generator.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramminginScala/objsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/objsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/modules/videos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionalProgramminginScala/videos/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,6 +37,15 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week1/session.sc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,12 +61,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionalProgramminginScala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionalProgramminginScala" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionalProgramminginScala" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionalProgramminginScala" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionalProgramminginScala" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionalProgramminginScala" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -70,27 +162,25 @@
       <option name="presentableId" value="Default" />
       <updated>1563085045805</updated>
       <workItem from="1563085047228" duration="2000" />
+      <workItem from="1563485171350" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2000" />
+    <option name="totallyTimeSpent" value="28000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16809729" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -98,20 +188,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven-2 Build" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven-2 Build" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FunctionalProgramminginScala/videos/src/main/scala/week1/session.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

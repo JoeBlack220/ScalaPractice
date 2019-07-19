@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="1486" />
+    <option name="inProcessMode" value="false" />
     <option name="useEclipseCompatibility" value="true" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
     <option name="interactive" value="true" />
+    <option name="makeBeforeRun" value="true" />
     <option name="moduleName" value="videos" />
   </component>
 </project>
