@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3b57b7e-812c-4fb9-b218-d0b4eb882856" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../kmeans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wikipedia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wikipedia/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timeusage/.idea/modules/bigdata-timeusage-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timeusage/.idea/modules/bigdata-timeusage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/stackoverflow/StackOverflow.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4320">
-              <caret line="293" column="32" selection-start-line="293" selection-start-column="32" selection-end-line="293" selection-end-column="32" />
+            <state relative-caret-position="139">
+              <caret line="37" column="5" selection-start-line="37" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -78,155 +79,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/stackoverflow/StackOverflow.scala" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/scala_settings.xml" />
-        <option value="$PROJECT_DIR$/.idea/sbt.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules/bigdata-stackoverflow.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/bigdata-stackoverflow-build.iml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_12_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scalap_2_11_12_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" />
       </list>
     </option>
   </component>
@@ -304,6 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
@@ -379,6 +232,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="18460987568000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1229958298" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
@@ -426,12 +280,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564089590237</updated>
-      <workItem from="1564089594437" duration="9836000" />
+      <workItem from="1564089594437" duration="11214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9836000" />
+    <option name="totallyTimeSpent" value="11214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
@@ -445,8 +299,8 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" sideWeight="0.49928468" weight="0.32833788" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" sideWeight="0.49356222" weight="0.32833788" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" sideWeight="0.49356222" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32970026" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.509299" side_tool="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Messages" sideWeight="0.49284694" weight="0.32833788" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -455,7 +309,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.490701" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.490701" weight="0.32833788" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -533,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/stackoverflow/StackOverflow.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4320">
-          <caret line="293" column="32" selection-start-line="293" selection-start-column="32" selection-end-line="293" selection-end-column="32" />
+        <state relative-caret-position="139">
+          <caret line="37" column="5" selection-start-line="37" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
