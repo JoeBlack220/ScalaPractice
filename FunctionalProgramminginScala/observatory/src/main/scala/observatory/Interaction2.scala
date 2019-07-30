@@ -4,12 +4,24 @@ package observatory
   * 6th (and last) milestone: user interface polishing
   */
 object Interaction2 {
+  val temperatures = Seq(
+    (60.0, Color(255, 255, 255)), (32.0, Color(255, 0, 0)),
+    (12.0, Color(255, 255, 0)), (0.0, Color(0, 255, 255)),
+    (-15.0, Color(0, 0, 255)), (-27.0, Color(255, 0, 255)),
+    (-5.00, Color(33, 0, 107)), (-60.0, Color(0, 0, 0)))
 
+  val deviations = Seq(
+    (7.0, Color(0, 0, 0)), (4.0, Color(255, 0, 0)),
+    (2.0, Color(255, 255, 0)), (0.0, Color(255, 255, 255)),
+    (-2.0, Color(0, 255, 255)), (-7.0, Color(0, 0, 255)))
   /**
     * @return The available layers of the application
     */
   def availableLayers: Seq[Layer] = {
-    ???
+    Seq(
+      Layer(LayerName.Temperatures, temperatures, 1975 to 2015),
+      Layer(LayerName.Deviations, deviations, 1990 to 2015)
+    )
   }
 
   /**
@@ -17,7 +29,7 @@ object Interaction2 {
     * @return A signal containing the year bounds corresponding to the selected layer
     */
   def yearBounds(selectedLayer: Signal[Layer]): Signal[Range] = {
-    ???
+    Signal(selectedLayer().bounds)
   }
 
   /**
@@ -29,7 +41,8 @@ object Interaction2 {
     *         in the `selectedLayer` bounds.
     */
   def yearSelection(selectedLayer: Signal[Layer], sliderValue: Signal[Year]): Signal[Year] = {
-    ???
+    val bounds = yearBounds(selectedLayer)()
+    Signal(sliderValue() max bounds.min min bounds.max)
   }
 
   /**
@@ -38,7 +51,7 @@ object Interaction2 {
     * @return The URL pattern to retrieve tiles
     */
   def layerUrlPattern(selectedLayer: Signal[Layer], selectedYear: Signal[Year]): Signal[String] = {
-    ???
+    Signal(s"generated/${selectedLayer().layerName.id}/${selectedYear()}/{z}/{x}/{y}.png")
   }
 
   /**
@@ -47,7 +60,7 @@ object Interaction2 {
     * @return The caption to show
     */
   def caption(selectedLayer: Signal[Layer], selectedYear: Signal[Year]): Signal[String] = {
-    ???
+    Signal(s"${selectedLayer().layerName.id.capitalize} (${selectedYear()})")
   }
 
 }
